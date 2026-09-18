@@ -36,6 +36,6 @@ Las librerías utilizadas son:
 #### Intrucciones de uso
 1. Descargar o clonar el repositorio.
 2. Colocar `Diabetes_Mexico.csv` en la misma carpeta que el notebook.
-3. Instalar las dependencias necesarias.
-4. Abrir `Practice 1.ipynb` utilizando Jupyter Notebook, JupyterLab o un entorno compatible.
+3. Abrir `Practice 1.ipynb` utilizando Jupyter Notebook, JupyterLab o un entorno compatible.
+4. Correr el bloque que instala las dependencias.
 5. Ejecutar las celdas en orden, desde la primera hasta la última.
