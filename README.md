@@ -1,5 +1,3 @@
-# icd2026
-
 # Introducción a la Ciencia de Datos
 
 Este repositorio contiene las prácticas, ejercicios y proyectos desarrollados durante la materia de **Introducción a la Ciencia de Datos**.
