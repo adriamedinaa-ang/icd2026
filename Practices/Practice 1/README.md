@@ -1,0 +1,3 @@
+### Practica 1
+
+El dataset utilizado integra información demográfica, antropométrica y bioquímica de 2,549 participantes, con el propósito de analizar distintos factores asociados con la diabetes y clasificar el nivel de riesgo que presenta cada individuo de desarrollar esta enfermedad. El conjunto de datos está compuesto por 24 atributos, los cuales incluyen variables de identificación, variables categóricas y numéricas.
