@@ -1,4 +1,4 @@
-# Práctica de Preprocesamiento de Datos — Breast Cancer Wisconsin
+# Tarea 2 Preprocesamiento de Datos
 
 ## Descripción
 
