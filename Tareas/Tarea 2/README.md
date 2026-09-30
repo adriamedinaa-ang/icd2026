@@ -18,7 +18,7 @@ La variable `Class` utiliza los siguientes valores:
 
 El notebook incluye las siguientes etapas:
 1. **Limpieza de datos**
-2. **Reducción de dimansionalidad por PCA**
+2. **Reducción de dimensionalidad por PCA**
 ## Requisitos de ejecución
 
 Para ejecutar el notebook se requiere **Python 3** y las siguientes librerías:
