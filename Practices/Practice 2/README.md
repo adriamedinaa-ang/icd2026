@@ -51,4 +51,3 @@ Las dependencias pueden instalarse mediante:
 ## Uso de inteligencia artificial
 
 Para el desarrollo de esta práctica se utilizó **ChatGPT (OpenAI)** como herramienta de apoyo. Los resultados, el código y las interpretaciones obtenidas fueron revisados y ajustados antes de su incorporación al trabajo final.
-
