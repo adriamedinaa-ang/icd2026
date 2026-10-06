@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 
 ## Ejecución
 
-1. Descargar o clonar los archivos del proyecto.
+1. Descargar o clonar los archivos de la tarea.
 2. Colocar `winequality-red.csv` en la misma carpeta que `Tarea 3.ipynb`.
 3. Abrir el notebook utilizando Jupyter Notebook o JupyterLab.
 4. Ejecutar las celdas en orden desde el inicio.
