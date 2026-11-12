@@ -1,4 +1,4 @@
-# Práctica 4 — Métodos de ensamble para clasificación
+# Práctica 4 — Meta aprendizaje
 
 ## Descripción
 
